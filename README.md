@@ -12,5 +12,3 @@ Lightweight and fast static site to spread the word about CAW.
 # run static site locally
 live-server --port=8080
 ```  
-
-https://cawsns.xyz/
